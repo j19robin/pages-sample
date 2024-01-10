@@ -28,7 +28,7 @@ twitter_username: na
 github_username:  j19robin
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
